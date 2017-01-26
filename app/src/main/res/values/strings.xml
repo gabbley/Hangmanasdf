@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_screen_choice">screenChoice</string>
+    <string name="title_activity_screen_game">screenGame</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+</resources>
